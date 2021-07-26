@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head >
+        <meta charset="utf-8"/>
+        <title > About Me</title>
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Playfair+Display:wght@500&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="nav-wrapper">
+                <div class="left-side">
+                    <div class = "nav-link-wrapper">
+                        <a href="home.html">Home</a>
+                    </div>
+                
+                
+                    <div class = "nav-link-wrapper active-nav-link">
+                            <a href="about.html">About Me</a>
+                    </div>
+                    <div class = "nav-link-wrapper">
+                        <a href="resume.html">Resume</a>
+                    </div>
+                </div>
+                
+                <div class="right-side">
+                        <div class="brand">
+                            <div>WOLF MOTHER STUDIO</div>
+                        
+                
+                        </div>
+                </div>
+            </div>
+
+                <div class="content-wrapper">
+                    <div class="two-column-wrapper">
+                        <div class="profile-image-wrapper">
+                            <img src="images/FinalImages/About Me Photo.jpg">
+                        </div>
+
+                        
+                            <div class="profile-content-wrapper">
+                            
+                         <h1> Welcome to my site! </h1>
+                            
+                            
+                            
+                            <p>My name is Krystal Dales from Des Moines, Iowa. I am a self-taught artist with a passion for watercolor and abstract acrylic. I am currently taking classes to become a front-end developer. Merging my two passions art and coding together is my dream.  </p>    
+                                   
+                            </div>
+                        </div>
+                    
+                        
+
+
+                    </div>
+                </div>
+                    
+
+
+        </div>
+        
+
+</body>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Add font awesome icons -->
+<a href="http://www.instagram.com/wolfmotherstudio" class="fa fa-instagram"></a>
+<a href="http://www.etsy.com/shop/wolfmotherstudio" class="fa fa-etsy"></a>
+
+
+</html>
