@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+    <head >
+        <meta charset="utf-8"/>
+        <title > WOLF MOTHER STUDIO</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Playfair+Display:wght@500&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="nav-wrapper">
+                <div class="left-side">
+                    <div class = "nav-link-wrapper active-nav-link" >
+                        <a href="home.html">Home</a>
+                    </div>
+                
+                
+                    <div class = "nav-link-wrapper">
+                            <a href="about.html">About Me</a>
+                    </div>
+                    <div class = "nav-link-wrapper">
+                        <a href="resume.html">Resume</a>
+                    </div>
+                </div>
+                
+                <div class="right-side">
+                        <div class="brand">
+                            <div>WOLF MOTHER STUDIO</div>
+                        
+                
+                        </div>
+                </div>
+            </div>
+
+                <div class="content-wrapper">
+                    <div class="portfilio-items-wrapper">
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/FinalImages/BroWC1.jpg"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/Logo1Whiteversion.png">
+                                    <div class="subtitle">
+                                        9x12 "Plant" Watercolor on watercolor paper
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/FinalImages/abstract3.jpg"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/WM logo 5.png">
+                                    <div class="subtitle">
+                                        20x 20 Acrylic on Canvas "Alarm"
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/FinalImages/CatWC1.jpg)"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/WM logo 3.png">
+                                    <div class="subtitle">
+                                        9x12 "Cat" Watercolor on watercolor paper
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/FinalImages/abstract2.jpg)"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/WM Logo 4.png">
+                                    <div class="subtitle">
+                                       20x20 Acrylic on Canva "Fences"
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/Finalimages/bananas1.jpg)"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/6.png">
+                                    <div class="subtitle">
+                                        9x12 "Bananas" Acrylic on canvas
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/FinalImages/abstract4.jpg)"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/7.png">
+                                    <div class="subtitle">
+                                        20x20 Acrylic on Canvas "Rebirth"
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/FinalImages/abstact5.jpg)"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/11.png">
+                                    <div class="subtitle">
+                                        Abstract 
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/FinalImages/RoosterWC1.jpg)"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/12.png">
+                                    <div class="subtitle">
+                                        9x12 "Rooster" Watercolor on watercolor paper
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                        <div class="portfilio-item-wrapper">
+                            <div class= "portfilio-img-background" style = "background-image:url(images/FinalImages/abstract1.jpg)"></div>
+                            <div class="img-text-wrapper">
+                                <div class="logo-wrapper">
+                                    <img src= "images/Logos/WM Logo 2.png">
+                                    <div class="subtitle">
+                                        Abstract
+                                    </div>
+
+
+
+
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    
+                </div>
+            </div>
+
+</body>
+
+
+<script>
+
+const portfilioItems = document.querySelectorAll('.portfilio-item-wrapper')
+portfilioItems.forEach(portfilioItem => {
+             portfilioItem.addEventListener('mouseover', () =>{
+                 console.log(portfilioItem.childNodes[1].classList);
+                 portfilioItem.childNodes[1].classList.add('img-darken');
+
+
+             })
+             portfilioItem.addEventListener('mouseout', () =>{
+                 console.log(portfilioItem.childNodes[1].classList);
+                 portfilioItem.childNodes[1].classList.remove('img-darken');
+             })
+
+}
+)
+</script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Add font awesome icons -->
+<a href="http://www.instagram.com/wolfmotherstudio" class="fa fa-instagram"></a>
+<a href="http://www.etsy.com/shop/wolfmotherstudio" class="fa fa-etsy"></a>
+
+
+</html>
